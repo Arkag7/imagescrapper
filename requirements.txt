@@ -2,6 +2,4 @@ beautifulsoup4
 bs4
 certifi
 Click
-Flask1==1.1.1
-Flask-Cors
 gunicorn
