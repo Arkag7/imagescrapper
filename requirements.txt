@@ -15,4 +15,4 @@ six==1.13.0
 soupsieve==1.9.5
 Werkzeug==0.16.0
 numpy==1.19.3
-python== 3.9
+python
