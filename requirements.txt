@@ -2,7 +2,7 @@ beautifulsoup4
 bs4
 certifi
 Click
-Flask1
+Flask1==1.1.1
 Flask-Cors
 gunicorn
 itsdangerous
