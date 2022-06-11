@@ -5,14 +5,3 @@ Click
 Flask1==1.1.1
 Flask-Cors
 gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
-opencv-python
-Pillow
-pymongo
-six
-soupsieve
-Werkzeug
-numpy
-python
